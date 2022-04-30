@@ -1,0 +1,2 @@
+### Youtube Search Request
+GET http://localhost:3000/youtube/search?search=rain
